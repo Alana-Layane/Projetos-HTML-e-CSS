@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 225, 166);
+    color: #7e0a8d;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: #000000;
+    font:medium;
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.878);
+}
+
+h3{
+    color: #000000c4;
+}
